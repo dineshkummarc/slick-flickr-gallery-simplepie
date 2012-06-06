@@ -1,0 +1,1 @@
+Because this project uses PHP, you'll need to have the files in your webroot.  Also, make sure that the "cache" folder has read/write access.
